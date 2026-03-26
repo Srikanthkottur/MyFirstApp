@@ -27,7 +27,7 @@ jobs:
       - name: Publish
         run: dotnet publish -c Release -o publish
 
-      - name: Deploy to Azure
+      - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
         with:
           app-name: srikanth-app-demo-gad3bfeqhuhrhzb2
