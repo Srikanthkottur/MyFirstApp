@@ -1,0 +1,7 @@
+C:\Users\srikanth kottur\MyFirstApp\publish\MyFirstApp.exe
+C:\Users\srikanth kottur\MyFirstApp\publish\appsettings.Development.json
+C:\Users\srikanth kottur\MyFirstApp\publish\appsettings.json
+C:\Users\srikanth kottur\MyFirstApp\publish\MyFirstApp.dll
+C:\Users\srikanth kottur\MyFirstApp\publish\MyFirstApp.deps.json
+C:\Users\srikanth kottur\MyFirstApp\publish\MyFirstApp.runtimeconfig.json
+C:\Users\srikanth kottur\MyFirstApp\publish\MyFirstApp.pdb
